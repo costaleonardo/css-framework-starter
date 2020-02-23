@@ -1,6 +1,6 @@
 /*!
-  * Bootstrap tab.js v4.4.1 (https://getbootstrap.com/)
-  * Copyright 2011-2020 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Bootstrap tab.js v1.0.0 (https://github.com/costaleonardo/css-framework-starter)
+  * Copyright 2011-2020 CSS Framework Starter Authors (https://github.com/costaleonardo/css-framework-starter/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
   */
 (function (global, factory) {
